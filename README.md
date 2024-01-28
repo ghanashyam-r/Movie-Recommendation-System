@@ -12,6 +12,10 @@ platform revenue by retaining subscribers and attracting new ones. Additionally,
 helping platforms stay competitive in a crowded market. Overall, the movie recommendation system is a key tool in simplifying content navigation, increasing
 user retention, and ensuring a competitive edge in the dynamic landscape of online streaming.
 
+Feature extraction is the process of converting raw data(information about movies) into a format that can be used for machine learning. In the movie recommendation system, features include various attributes of a movie, such as genre,keywords,director,actors and tags. The goal is to represent each movie as a vector in a high-dimensional space, where similar movies are close to each other.
+
+Cosine similarity is a metric used to measure how similar two vectors are. In the recommendation system,cosine similarity to compare the feature vectors of different movies. The cosine similarity ranges from -1 to 1, where 1 indicates identical vectors, 0 indicates orthogonal (completely dissimilar) vectors, and -1 indicates diametrically opposed vectors.
+
 
 <img width="440" alt="Screenshot 2024-01-28 at 9 07 00 PM" src="https://github.com/ghanashyam-r/Movie-Recommendation-System/assets/138144872/44f252b2-b261-4c33-b429-0c2c3b749bca">
 
