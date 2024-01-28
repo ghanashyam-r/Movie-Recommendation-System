@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Movie Recommendations</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #c4dcff;
+            color: #000; /* Changed font color to black */
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #ffffff;
+            color: #000; /* Changed font color to black */
+            text-align: center;
+            padding: 1em;
+        }
+
+        h1 {
+            margin-top: 2em;
+            text-align: center;
+        }
+
+        table {
+            width: 80%;
+            margin: 2em auto;
+            border-collapse: collapse;
+            border: 2px solid #000;
+        }
+
+        th, td {
+            padding: 1em;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Movie Recommendations for {{ movie_name }}</h1>
+    </header>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Your Recommendations are:</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for movie in recommendations %}
+                <tr>
+                    <td>{{ movie }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+        <thead>
+            <tr>
+                <th>Have a nice day!</th>
+            </tr>
+        </thead>
+    </table>
+</body>
+</html>
