@@ -19,7 +19,9 @@ Cosine similarity is a metric used to measure how similar two vectors are. In th
 
 <img width="440" alt="Screenshot 2024-01-28 at 9 07 00 PM" src="https://github.com/ghanashyam-r/Movie-Recommendation-System/assets/138144872/44f252b2-b261-4c33-b429-0c2c3b749bca">
 
-<img width="1425" alt="Screenshot 2024-01-28 at 8 54 35 PM" src="https://github.com/ghanashyam-r/Movie-Recommendation-System/assets/138144872/c7acc041-bfca-47ac-96a2-a3c683bd4636">
-<img width="1440" alt="Screenshot 2024-01-28 at 8 54 18 PM" src="https://github.com/ghanashyam-r/Movie-Recommendation-System/assets/138144872/7370e7b5-85c6-4972-8e91-72f7f427510c">
 <img width="1436" alt="Screenshot 2024-01-28 at 8 54 11 PM" src="https://github.com/ghanashyam-r/Movie-Recommendation-System/assets/138144872/55462155-f251-4ffd-a110-63c8b3b46986">
+<img width="1440" alt="Screenshot 2024-01-28 at 8 54 18 PM" src="https://github.com/ghanashyam-r/Movie-Recommendation-System/assets/138144872/7370e7b5-85c6-4972-8e91-72f7f427510c">
+<img width="1425" alt="Screenshot 2024-01-28 at 8 54 35 PM" src="https://github.com/ghanashyam-r/Movie-Recommendation-System/assets/138144872/c7acc041-bfca-47ac-96a2-a3c683bd4636">
+
+
 
